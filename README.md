@@ -8,7 +8,7 @@ This repository contains a collection of my certifications in various fields of 
   [View Certificate](./Killandio-Dantas-Curso-de-Ingles-para-Iniciantes-8211-Modulo-01-Beginners-8211-Gratis-e-Completo-20-HORAS-Certificado-Curso-em-Video.pdf)
 
 - **Python 3 – Basics (40 Hours)**  
-  [View Certificate](./Killandio-Dantas-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video.pdf)
+  [View Certificate](certificates/Killandio-Dantas-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video.pdf)
 
 ## 🎯 Goals
 
